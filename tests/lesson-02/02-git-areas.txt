@@ -1,0 +1,4 @@
+- Local: N/A
+- Working Directory: file2, file3
+- Staging Area: N/A
+- Repository: file1
